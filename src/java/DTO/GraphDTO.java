@@ -16,7 +16,7 @@ import javax.persistence.PersistenceContext;
 
 /**
  *
- * @author mariusbrederlow
+ * @author peters
  */
 @Stateless
 public class GraphDTO {

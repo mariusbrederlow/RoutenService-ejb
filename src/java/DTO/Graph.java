@@ -12,7 +12,7 @@ import javax.ejb.Stateless;
 
 /**
  *
- * @author mariusbrederlow
+ * @author peters
  */
 @Stateless
 @LocalBean

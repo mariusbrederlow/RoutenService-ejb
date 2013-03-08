@@ -17,7 +17,7 @@ import javax.ejb.Stateless;
 
 /**
  *
- * @author mariusbrederlow
+ * @author peters
  */
 @Stateless
 @Remote(IRoutenService.class)
